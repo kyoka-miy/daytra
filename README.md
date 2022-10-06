@@ -1,4 +1,4 @@
-# Day-tra
+# Day-Tra
 - Web development projects
 - Used skills - HTML, CSS, Sass, JavaScript, jQuery, PHP, WordPress
 - All responsive sites
